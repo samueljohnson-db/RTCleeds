@@ -124,8 +124,8 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110026365,438484,427254,2,18-Jan-11,750,A,Frost / Ice,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,51,Car
 110026365,438484,427254,2,18-Jan-11,750,A,Frost / Ice,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,10,Car
 110026370,438787,426990,1,18-Jan-11,900,A,Frost / Ice,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,33,Car
-110027045,422224,433798,1,18-Jan-11,800,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,15,Minibus (8 – 16 passenger seats)
-110027045,422224,433798,1,18-Jan-11,800,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,15,Minibus (8 – 16 passenger seats)
+110027045,422224,433798,1,18-Jan-11,800,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,15,Minibus (8 Â– 16 passenger seats)
+110027045,422224,433798,1,18-Jan-11,800,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,15,Minibus (8 Â– 16 passenger seats)
 110027286,430361,433450,1,18-Jan-11,1515,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,52,Bus or coach (17 or more passenger seats)
 110027286,430361,433450,1,18-Jan-11,1515,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,26,Bus or coach (17 or more passenger seats)
 110027443,433070,434009,2,18-Jan-11,1700,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver,Slight,Male,18,Pedal cycle
@@ -348,8 +348,8 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110076014,428089,435419,2,15-Feb-11,1825,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver,Slight,Male,25,Pedal cycle
 110076258,428629,436948,1,15-Feb-11,2305,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Pedestrian,Slight,Male,18,Car
 110076406,441827,430187,1,15-Feb-11,820,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,8,Car
-110076656,433193,434015,2,15-Feb-11,1545,A,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,Driver,Slight,Female,32,Car
-110076656,433193,434015,2,15-Feb-11,1545,A,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,Passenger,Slight,Male,6,Car
+110076656,433193,434015,2,15-Feb-11,1545,A,Wet / Damp,Daylight: street lights present,Fog or mist Â– if hazard,Driver,Slight,Female,32,Car
+110076656,433193,434015,2,15-Feb-11,1545,A,Wet / Damp,Daylight: street lights present,Fog or mist Â– if hazard,Passenger,Slight,Male,6,Car
 110076951,428797,431634,2,16-Feb-11,1110,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,48,Car
 110077582,425381,443220,2,16-Feb-11,1415,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,69,Car
 110077595,444246,432958,3,16-Feb-11,1355,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,24,Motorcycle over 125cc and up to 500cc
@@ -385,7 +385,7 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110086433,429619,426421,3,22-Feb-11,700,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,42,Car
 110087385,429559,432368,2,22-Feb-11,1705,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,50,Car
 110087385,429559,432368,2,22-Feb-11,1705,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,49,Car
-110087571,432958,440271,1,22-Feb-11,627,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fog or mist – if hazard,Driver,Serious,Male,56,Car
+110087571,432958,440271,1,22-Feb-11,627,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fog or mist Â– if hazard,Driver,Serious,Male,56,Car
 110087683,430096,431379,1,22-Feb-11,1415,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,40,Bus or coach (17 or more passenger seats)
 110090037,434744,435541,1,22-Feb-11,1515,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,3,Bus or coach (17 or more passenger seats)
 110090791,428087,434440,1,23-Feb-11,1455,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,21,Bus or coach (17 or more passenger seats)
@@ -515,12 +515,12 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110123333,439829,447283,3,16-Mar-11,845,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,27,Car
 110123393,436244,435587,3,16-Mar-11,1225,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,44,Car
 110123393,436244,435587,3,16-Mar-11,1225,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,22,Car
-110123614,433312,441763,2,16-Mar-11,1410,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,Driver,Serious,Female,41,Car
-110123614,433312,441763,2,16-Mar-11,1410,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,Driver,Slight,Male,55,Car
+110123614,433312,441763,2,16-Mar-11,1410,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist Â– if hazard,Driver,Serious,Female,41,Car
+110123614,433312,441763,2,16-Mar-11,1410,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist Â– if hazard,Driver,Slight,Male,55,Car
 110124098,420624,441135,1,16-Mar-11,2005,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,59,Car
-110124514,422944,443100,2,16-Mar-11,1345,A,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,Driver,Slight,Male,79,Car
+110124514,422944,443100,2,16-Mar-11,1345,A,Wet / Damp,Daylight: street lights present,Fog or mist Â– if hazard,Driver,Slight,Male,79,Car
 110125032,419590,438468,1,16-Mar-11,1815,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver,Slight,Male,24,Motorcycle over 125cc and up to 500cc
-110124330,440436,446598,1,17-Mar-11,320,A(M),Wet / Damp,Darkness: no street lighting,Fog or mist – if hazard,Driver,Slight,Male,46,Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw
+110124330,440436,446598,1,17-Mar-11,320,A(M),Wet / Damp,Darkness: no street lighting,Fog or mist Â– if hazard,Driver,Slight,Male,46,Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw
 110124818,431881,430497,2,17-Mar-11,940,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,37,Car
 110125036,426005,427355,2,17-Mar-11,835,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,10,Car
 110125860,430797,425575,1,17-Mar-11,1425,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,77,Bus or coach (17 or more passenger seats)
@@ -733,7 +733,7 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110170713,427967,433615,3,12-Apr-11,943,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,38,Taxi/Private hire car
 110171223,435313,425909,2,12-Apr-11,1730,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,24,Car
 110170823,434410,425866,4,13-Apr-11,805,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,32,Car
-110172225,440994,445721,2,13-Apr-11,1913,A(M),Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,17,Minibus (8 – 16 passenger seats)
+110172225,440994,445721,2,13-Apr-11,1913,A(M),Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,17,Minibus (8 Â– 16 passenger seats)
 110172409,430231,435116,2,13-Apr-11,1610,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,45,Car
 110172855,441430,444966,3,14-Apr-11,746,A(M),Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,27,Car
 110173072,432933,430222,3,14-Apr-11,1106,B,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,53,Car
@@ -794,8 +794,8 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110183940,431877,440199,3,20-Apr-11,1900,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,74,Car
 110184237,442479,442987,1,20-Apr-11,1650,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,57,Bus or coach (17 or more passenger seats)
 110185794,422938,437562,3,21-Apr-11,1542,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,36,Car
-110185794,422938,437562,3,21-Apr-11,1542,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,9,Minibus (8 – 16 passenger seats)
-110185794,422938,437562,3,21-Apr-11,1542,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,10,Minibus (8 – 16 passenger seats)
+110185794,422938,437562,3,21-Apr-11,1542,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,9,Minibus (8 Â– 16 passenger seats)
+110185794,422938,437562,3,21-Apr-11,1542,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,10,Minibus (8 Â– 16 passenger seats)
 110185890,425941,438103,2,21-Apr-11,1535,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Serious,Male,54,Car
 110185900,424848,438291,2,21-Apr-11,1810,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,7,Pedal cycle
 110186001,438491,430400,2,21-Apr-11,1253,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,27,Car
@@ -1527,11 +1527,11 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110342341,435394,440271,2,26-Jul-11,745,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,26,Car
 110342341,435394,440271,2,26-Jul-11,745,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,25,Car
 110342737,420550,444945,2,26-Jul-11,1325,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,25,Pedal cycle
-110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,25,Minibus (8 – 16 passenger seats)
-110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,30,Minibus (8 – 16 passenger seats)
-110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,38,Minibus (8 – 16 passenger seats)
-110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,21,Minibus (8 – 16 passenger seats)
-110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,25,Minibus (8 – 16 passenger seats)
+110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,25,Minibus (8 Â– 16 passenger seats)
+110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,30,Minibus (8 Â– 16 passenger seats)
+110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,38,Minibus (8 Â– 16 passenger seats)
+110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,21,Minibus (8 Â– 16 passenger seats)
+110343039,425756,426340,1,26-Jul-11,1607,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,25,Minibus (8 Â– 16 passenger seats)
 110344660,436209,434332,1,27-Jul-11,1040,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,72,Bus or coach (17 or more passenger seats)
 110344757,432209,432987,1,27-Jul-11,1520,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,90,Car
 110349980,435653,436499,2,27-Jul-11,1649,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,59,Car
@@ -1622,7 +1622,7 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110367816,425353,437191,1,08-Aug-11,1310,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,80,Taxi/Private hire car
 110365367,427509,437677,1,09-Aug-11,925,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,51,Pedal cycle
 110365381,432663,436926,2,09-Aug-11,800,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,38,Pedal cycle
-110365741,430358,433459,1,09-Aug-11,1114,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,70,Minibus (8 – 16 passenger seats)
+110365741,430358,433459,1,09-Aug-11,1114,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,70,Minibus (8 Â– 16 passenger seats)
 110366393,428532,428182,2,09-Aug-11,1750,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,35,Pedal cycle
 110366447,424128,444003,2,09-Aug-11,1435,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,40,Goods vehicle 3.5 tonnes mgw and under
 110366573,433941,434109,2,09-Aug-11,1705,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,39,Car
@@ -2197,7 +2197,7 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110490298,430221,433756,1,25-Oct-11,2045,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Pedestrian,Slight,Male,18,Bus or coach (17 or more passenger seats)
 110491144,435079,435124,2,25-Oct-11,2015,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver,Slight,Male,36,Car
 110490706,427263,435163,2,26-Oct-11,755,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,46,Motorcycle over 125cc and up to 500cc
-110490815,443042,447698,2,26-Oct-11,820,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,62,Minibus (8 – 16 passenger seats)
+110490815,443042,447698,2,26-Oct-11,820,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,62,Minibus (8 Â– 16 passenger seats)
 110490815,443042,447698,2,26-Oct-11,820,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,28,Car
 110491014,429922,427802,2,26-Oct-11,1101,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,55,Car
 110491688,430210,432821,2,26-Oct-11,1530,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,43,Pedal cycle
@@ -2226,7 +2226,7 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110496594,433392,436163,1,29-Oct-11,1730,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,Pedestrian,Serious,Female,12,Car
 110496626,422898,432279,3,29-Oct-11,1403,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Male,24,Goods vehicle 3.5 tonnes mgw and under
 110496626,422898,432279,3,29-Oct-11,1403,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,39,Car
-110496921,428505,437267,3,29-Oct-11,2145,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver,Slight,Male,31,Minibus (8 – 16 passenger seats)
+110496921,428505,437267,3,29-Oct-11,2145,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver,Slight,Male,31,Minibus (8 Â– 16 passenger seats)
 110497156,430288,433251,1,30-Oct-11,125,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,24,Car
 110497156,430288,433251,1,30-Oct-11,125,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,33,Car
 110498007,430087,433371,1,30-Oct-11,200,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,Pedestrian,Slight,Male,22,Car
@@ -2332,7 +2332,7 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110520426,428097,434514,2,12-Nov-11,2220,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver,Slight,Female,32,Car
 110520426,428097,434514,2,12-Nov-11,2220,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,34,Car
 110520920,424275,428344,2,13-Nov-11,945,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,53,Motorcycle over 50cc and up to 125cc
-110521284,426335,428160,2,13-Nov-11,305,B,Wet / Damp,Darkness: street lights present and lit,Fog or mist – if hazard,Driver,Slight,Male,22,Car
+110521284,426335,428160,2,13-Nov-11,305,B,Wet / Damp,Darkness: street lights present and lit,Fog or mist Â– if hazard,Driver,Slight,Male,22,Car
 110522446,429336,433483,1,14-Nov-11,1048,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,63,Bus or coach (17 or more passenger seats)
 110522639,421829,434353,1,14-Nov-11,1300,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,76,Car
 110522785,431734,434575,1,14-Nov-11,1350,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,72,Bus or coach (17 or more passenger seats)
@@ -2386,7 +2386,7 @@ Reference Number,Easting,Northing,Number of Vehicles,Accident Date,Time (24hr),1
 110080616,435757,436187,4,21-Nov-11,1734,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver,Slight,Male,37,Goods vehicle 3.5 tonnes mgw and under
 110533575,427530,438605,2,21-Nov-11,814,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,34,Car
 110533701,422235,433538,1,21-Nov-11,835,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,12,Car
-110533751,428085,435385,2,21-Nov-11,825,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,Driver,Slight,Male,46,Motorcycle over 50cc and up to 125cc
+110533751,428085,435385,2,21-Nov-11,825,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist Â– if hazard,Driver,Slight,Male,46,Motorcycle over 50cc and up to 125cc
 110534594,431520,435143,2,21-Nov-11,1335,A,Dry,Daylight: street lights present,Fine without high winds,Driver,Slight,Female,30,Car
 110534622,438557,429958,2,21-Nov-11,1535,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,12,Goods vehicle 3.5 tonnes mgw and under
 110534718,421588,433554,2,21-Nov-11,1840,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver,Slight,Male,15,Pedal cycle
