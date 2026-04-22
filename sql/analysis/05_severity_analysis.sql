@@ -1,0 +1,1 @@
+-- within this file a list of queries will be stored which will create views and tables specifically created to solve aims and objectives --
