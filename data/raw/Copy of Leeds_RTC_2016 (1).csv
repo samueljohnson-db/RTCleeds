@@ -53,7 +53,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Expr1,A
 3181333,427496,425485,2,Leeds 2016,08/01/2016,1936,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Female,18,Car
 3181333,427496,425485,2,Leeds 2016,08/01/2016,1936,A,Dry,Darkness: street lights present and lit,Fine without high winds,Vehicle or pillion passenger,Slight,Male,26,Car
 3181333,427496,425485,2,Leeds 2016,08/01/2016,1936,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Male,42,Car
-3190305,420396,445354,2,Leeds 2016,09/01/2016,0505,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fog or mist – if hazard,Driver or rider,Serious,Male,45,Pedal cycle
+3190305,420396,445354,2,Leeds 2016,09/01/2016,0505,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fog or mist Â– if hazard,Driver or rider,Serious,Male,45,Pedal cycle
 3190541,430549,427292,2,Leeds 2016,09/01/2016,1144,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver or rider,Slight,Male,25,Motorcycle over 50cc and up to 125cc
 3190903,437677,425385,3,Leeds 2016,09/01/2016,1512,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Female,54,Car
 3190903,437677,425385,3,Leeds 2016,09/01/2016,1512,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Vehicle or pillion passenger,Slight,Male,55,Car
@@ -416,7 +416,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Expr1,A
 32R1361,427743,425799,2,Leeds 2016,27/02/2016,1940,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Female,25,Car
 32S0671,437977,429964,2,Leeds 2016,28/02/2016,1037,A,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Male,40,Pedal cycle
 32S0952,424767,435352,3,Leeds 2016,28/02/2016,1432,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Female,50,Pedal cycle
-32S1276,426139,437275,2,Leeds 2016,28/02/2016,1730,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Male,47,Minibus (8 – 16 passenger seats)
+32S1276,426139,437275,2,Leeds 2016,28/02/2016,1730,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Male,47,Minibus (8 Â– 16 passenger seats)
 32S1329,430998,430603,2,Leeds 2016,28/02/2016,1810,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Female,58,Car
 32S1329,430998,430603,2,Leeds 2016,28/02/2016,1810,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Vehicle or pillion passenger,Serious,Male,57,Car
 32S1329,430998,430603,2,Leeds 2016,28/02/2016,1810,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Vehicle or pillion passenger,Slight,Male,11,Car
@@ -894,8 +894,8 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Expr1,A
 3590524,429994,436525,2,Leeds 2016,09/05/2016,0955,A,Dry,Daylight: street lights present,Fine without high winds,Vehicle or pillion passenger,Slight,Female,36,Car
 3590678,431747,435400,2,Leeds 2016,09/05/2016,1040,Unclassified,Dry,Daylight: street lights present,Unknown,Driver or rider,Slight,Female,40,Car
 3591091,430904,433482,1,Leeds 2016,09/05/2016,1549,A,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,12,Bus or coach (17 or more passenger seats)
-3591204,427650,436675,2,Leeds 2016,09/05/2016,1430,A,Dry,Daylight: street lights present,Fine without high winds,Vehicle or pillion passenger,Slight,Female,25,Minibus (8 – 16 passenger seats)
-3591204,427650,436675,2,Leeds 2016,09/05/2016,1430,A,Dry,Daylight: street lights present,Fine without high winds,Vehicle or pillion passenger,Slight,Female,25,Minibus (8 – 16 passenger seats)
+3591204,427650,436675,2,Leeds 2016,09/05/2016,1430,A,Dry,Daylight: street lights present,Fine without high winds,Vehicle or pillion passenger,Slight,Female,25,Minibus (8 Â– 16 passenger seats)
+3591204,427650,436675,2,Leeds 2016,09/05/2016,1430,A,Dry,Daylight: street lights present,Fine without high winds,Vehicle or pillion passenger,Slight,Female,25,Minibus (8 Â– 16 passenger seats)
 3591260,433127,436120,2,Leeds 2016,09/05/2016,1700,A,Dry,Daylight: street lights present,Unknown,Driver or rider,Slight,Male,39,Car
 3591260,433127,436120,2,Leeds 2016,09/05/2016,1700,A,Dry,Daylight: street lights present,Unknown,Vehicle or pillion passenger,Slight,Female,33,Car
 35A0884,430800,435338,2,Leeds 2016,10/05/2016,1440,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver or rider,Slight,Male,26,Pedal cycle
@@ -1806,7 +1806,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Expr1,A
 39M0211,433091,429114,2,Leeds 2016,22/09/2016,0555,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver or rider,Slight,Male,19,Car
 39M0509,432788,431994,2,Leeds 2016,22/09/2016,1045,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Male,19,Goods vehicle 3.5 tonnes mgw and under
 39M0509,432788,431994,2,Leeds 2016,22/09/2016,1045,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Male,55,Goods vehicle 3.5 tonnes mgw and under
-39M1007,426113,434359,1,Leeds 2016,22/09/2016,1520,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,19,Minibus (8 – 16 passenger seats)
+39M1007,426113,434359,1,Leeds 2016,22/09/2016,1520,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,19,Minibus (8 Â– 16 passenger seats)
 39M1162,429847,438427,2,Leeds 2016,22/09/2016,1627,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Male,12,Pedal cycle
 39M1265,427557,431339,2,Leeds 2016,22/09/2016,1710,A,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Male,26,Pedal cycle
 39N0215,428410,432473,2,Leeds 2016,23/09/2016,0715,A,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Female,29,Pedal cycle
@@ -2093,7 +2093,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Expr1,A
 3AT0735,431202,429737,1,Leeds 2016,29/10/2016,1130,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,42,Taxi/Private hire car
 3AT0945,429739,433540,1,Leeds 2016,29/10/2016,1340,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,21,Car
 3AT1230,427726,436479,2,Leeds 2016,29/10/2016,1610,A,Dry,Daylight: street lights present,Fine without high winds,Driver or rider,Serious,Male,15,Pedal cycle
-3AT1477,430247,433241,1,Leeds 2016,29/10/2016,1825,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,78,Minibus (8 – 16 passenger seats)
+3AT1477,430247,433241,1,Leeds 2016,29/10/2016,1825,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,78,Minibus (8 Â– 16 passenger seats)
 3AT1878,429533,439290,2,Leeds 2016,29/10/2016,2150,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Female,46,Car
 3AU0297,428098,434518,2,Leeds 2016,30/10/2016,0140,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Male,33,Taxi/Private hire car
 3AU0297,428098,434518,2,Leeds 2016,30/10/2016,0140,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Male,39,Taxi/Private hire car
@@ -2367,7 +2367,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Expr1,A
 3C50993,429956,430864,2,Leeds 2016,05/12/2016,1605,A,Dry,Darkness: street lights present and lit,Fine without high winds,Vehicle or pillion passenger,Slight,Male,48,Bus or coach (17 or more passenger seats)
 3C51045,419211,441839,2,Leeds 2016,05/12/2016,1300,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Female,53,Car
 3C51045,419211,441839,2,Leeds 2016,05/12/2016,1300,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Vehicle or pillion passenger,Slight,Female,79,Car
-3C60203,421099,439898,2,Leeds 2016,06/12/2016,0708,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fog or mist – if hazard,Driver or rider,Slight,Male,29,Pedal cycle
+3C60203,421099,439898,2,Leeds 2016,06/12/2016,0708,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fog or mist Â– if hazard,Driver or rider,Slight,Male,29,Pedal cycle
 3C60453,429942,425127,2,Leeds 2016,06/12/2016,1110,Unclassified,Wet / Damp,Daylight: street lights present,Fine with high winds,Driver or rider,Slight,Female,63,Motorcycle over 500cc
 3C60720,429769,433923,3,Leeds 2016,06/12/2016,1700,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Male,46,Pedal cycle
 3C60890,428652,436834,2,Leeds 2016,07/12/2016,1525,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,61,Car
@@ -2438,8 +2438,8 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Expr1,A
 3CE0068,431816,430459,1,Leeds 2016,14/12/2016,0105,Motorway,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver or rider,Slight,Female,28,Car
 3CE1533,423318,427883,2,Leeds 2016,14/12/2016,1935,Motorway,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver or rider,Slight,Female,45,Car
 3CE1789,431482,431715,2,Leeds 2016,14/12/2016,2149,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Female,24,Car
-3CF0250,434616,441232,2,Leeds 2016,15/12/2016,0709,Unclassified,Wet / Damp,Darkness: no street lighting,Fog or mist – if hazard,Driver or rider,Slight,Male,35,Car
-3CF0250,434616,441232,2,Leeds 2016,15/12/2016,0709,Unclassified,Wet / Damp,Darkness: no street lighting,Fog or mist – if hazard,Driver or rider,Slight,Male,41,Car
+3CF0250,434616,441232,2,Leeds 2016,15/12/2016,0709,Unclassified,Wet / Damp,Darkness: no street lighting,Fog or mist Â– if hazard,Driver or rider,Slight,Male,35,Car
+3CF0250,434616,441232,2,Leeds 2016,15/12/2016,0709,Unclassified,Wet / Damp,Darkness: no street lighting,Fog or mist Â– if hazard,Driver or rider,Slight,Male,41,Car
 3CF0311,424763,427904,2,Leeds 2016,15/12/2016,0830,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver or rider,Slight,Male,59,Car
 3CF0801,430936,429941,2,Leeds 2016,17/09/2016,2000,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver or rider,Slight,Female,46,Car
 3CF0887,430668,433452,1,Leeds 2016,15/12/2016,1510,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,13,Car
