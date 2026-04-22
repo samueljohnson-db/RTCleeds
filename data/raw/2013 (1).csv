@@ -92,7 +92,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130009714,432808,425995,2,07-Jan-13,1740,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Female,33,Car
 130009868,428381,432522,2,07-Jan-13,2200,A,Dry,Darkness: street lights present but unlit,Fine without high winds,1,Driver,Slight,Male,23,Pedal cycle
 130010135,431321,428469,2,08-Jan-13,635,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Male,38,Motorcycle over 50cc and up to 125cc
-130010159,430003,438577,2,06-Jan-13,1100,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,49,Minibus (8 – 16 passenger seats)
+130010159,430003,438577,2,06-Jan-13,1100,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,49,Minibus (8 Â– 16 passenger seats)
 130010563,425826,438087,4,08-Jan-13,840,A,Wet / Damp,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,44,Car
 130010801,433137,433315,2,08-Jan-13,1250,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,30,Motorcycle over 50cc and up to 125cc
 130010974,430742,435470,1,08-Jan-13,1500,Unclassified,Dry,Daylight: street lights present,Fine without high winds,3,Pedestrian,Serious,Female,30,Taxi/Private hire car
@@ -145,7 +145,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130016089,427717,435890,3,11-Jan-13,1700,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,2,Passenger,Slight,Female,72,Car
 130016242,430349,432102,2,11-Jan-13,2045,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Male,28,Car
 130016386,424251,434478,2,11-Jan-13,2152,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Female,24,Car
-130016396,426482,440266,1,11-Jan-13,2100,Unclassified,Wet / Damp,Darkness: no street lighting,Fog or mist – if hazard,1,Driver,Slight,Female,20,Car
+130016396,426482,440266,1,11-Jan-13,2100,Unclassified,Wet / Damp,Darkness: no street lighting,Fog or mist Â– if hazard,1,Driver,Slight,Female,20,Car
 130016942,435674,434803,2,12-Jan-13,1020,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,29,Car
 130016942,435674,434803,2,12-Jan-13,1020,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,53,Car
 130016942,435674,434803,2,12-Jan-13,1020,Unclassified,Dry,Daylight: street lights present,Fine without high winds,2,Passenger,Slight,Male,29,Car
@@ -171,7 +171,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130018682,422992,437678,2,13-Jan-13,1615,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Female,26,Pedal cycle
 130018709,436361,436312,1,13-Jan-13,1915,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,3,Pedestrian,Serious,Male,64,Car
 130019031,426060,436363,2,14-Jan-13,720,Unclassified,Snow,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Male,58,Car
-130019031,426060,436363,2,14-Jan-13,720,Unclassified,Snow,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Male,50,Minibus (8 – 16 passenger seats)
+130019031,426060,436363,2,14-Jan-13,720,Unclassified,Snow,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Male,50,Minibus (8 Â– 16 passenger seats)
 130019050,430839,433997,2,14-Jan-13,735,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,1,Driver,Serious,Male,35,Pedal cycle
 130019175,431007,439223,2,14-Jan-13,801,A,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,39,Car
 130019175,431007,439223,2,14-Jan-13,801,A,Dry,Daylight: street lights present,Fine without high winds,2,Passenger,Slight,Female,14,Car
@@ -460,9 +460,9 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130097611,430922,426526,2,05-Mar-13,1609,Motorway,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,36,Car
 130097661,436013,429013,3,05-Mar-13,1748,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Male,19,Motorcycle over 50cc and up to 125cc
 130098364,428588,435664,1,04-Mar-13,1800,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,3,Pedestrian,Slight,Male,65,Car
-130098441,421066,434250,2,05-Mar-13,1930,A,Dry,Darkness: street lighting unknown,Fog or mist – if hazard,1,Driver,Slight,Male,25,Car
-130098441,421066,434250,2,05-Mar-13,1930,A,Dry,Darkness: street lighting unknown,Fog or mist – if hazard,2,Passenger,Slight,Female,56,Car
-130098441,421066,434250,2,05-Mar-13,1930,A,Dry,Darkness: street lighting unknown,Fog or mist – if hazard,2,Passenger,Slight,Female,20,Car
+130098441,421066,434250,2,05-Mar-13,1930,A,Dry,Darkness: street lighting unknown,Fog or mist Â– if hazard,1,Driver,Slight,Male,25,Car
+130098441,421066,434250,2,05-Mar-13,1930,A,Dry,Darkness: street lighting unknown,Fog or mist Â– if hazard,2,Passenger,Slight,Female,56,Car
+130098441,421066,434250,2,05-Mar-13,1930,A,Dry,Darkness: street lighting unknown,Fog or mist Â– if hazard,2,Passenger,Slight,Female,20,Car
 130099158,431093,433464,2,06-Mar-13,1500,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,37,Car
 130099158,431093,433464,2,06-Mar-13,1500,Unclassified,Dry,Daylight: street lights present,Fine without high winds,2,Passenger,Slight,Female,50,Car
 130099261,422483,428694,1,06-Mar-13,1515,Unclassified,Dry,Daylight: street lights present,Fine without high winds,3,Pedestrian,Slight,Male,2,Goods vehicle 3.5 tonnes mgw and under
@@ -508,7 +508,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130109291,431107,433568,2,12-Mar-13,1555,A,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,49,Car
 130109315,425185,441146,2,12-Mar-13,2320,Unclassified,Dry,Darkness: no street lighting,Fine without high winds,1,Driver,Slight,Male,31,Car
 130109315,425185,441146,2,12-Mar-13,2320,Unclassified,Dry,Darkness: no street lighting,Fine without high winds,1,Driver,Slight,Male,43,Car
-130110399,429051,433853,2,14-Mar-13,700,Unclassified,Wet / Damp,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Male,45,Minibus (8 – 16 passenger seats)
+130110399,429051,433853,2,14-Mar-13,700,Unclassified,Wet / Damp,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Male,45,Minibus (8 Â– 16 passenger seats)
 130110485,426137,439013,1,13-Mar-13,1725,Unclassified,Wet / Damp,Darkness: street lighting unknown,Raining without high winds,2,Passenger,Slight,Male,4,Bus or coach (17 or more passenger seats)
 130111343,425614,436979,1,14-Mar-13,1020,Unclassified,Dry,Daylight: street lights present,Fine without high winds,3,Pedestrian,Slight,Male,71,Car
 130111586,429396,430167,2,13-Mar-13,2105,A,Dry,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Male,15,Other Vehicle 
@@ -686,7 +686,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130155713,429455,434903,2,15-Apr-13,1135,A,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,32,Car
 130156074,428427,428828,2,15-Apr-13,1505,A,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,31,Car
 130156225,427394,427462,2,15-Apr-13,1715,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Male,6,Pedal cycle
-130156332,430794,433460,1,15-Apr-13,1608,A,Dry,Daylight: street lights present,Fine with high winds,2,Passenger,Slight,Female,27,Minibus (8 – 16 passenger seats)
+130156332,430794,433460,1,15-Apr-13,1608,A,Dry,Daylight: street lights present,Fine with high winds,2,Passenger,Slight,Female,27,Minibus (8 Â– 16 passenger seats)
 130156364,421918,432965,2,15-Apr-13,1638,B,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,32,Car
 130156364,421918,432965,2,15-Apr-13,1638,B,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,50,Car
 130156398,433844,434056,2,15-Apr-13,1536,A,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,19,Car
@@ -994,7 +994,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130225938,429498,431064,2,01-Jun-13,1355,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,40,Car
 130225938,429498,431064,2,01-Jun-13,1355,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Serious,Male,35,Pedal cycle
 130226088,428990,428375,1,01-Jun-13,1701,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,3,Pedestrian,Slight,Male,5,Car
-130226176,443319,438968,2,01-Jun-13,1705,A(M),Dry,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Female,28,Minibus (8 – 16 passenger seats)
+130226176,443319,438968,2,01-Jun-13,1705,A(M),Dry,Darkness: street lighting unknown,Fine without high winds,1,Driver,Slight,Female,28,Minibus (8 Â– 16 passenger seats)
 130226232,431681,433441,1,01-Jun-13,1813,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,1,Driver,Serious,Male,23,Motorcycle over 125cc and up to 500cc
 130226239,431049,424680,2,31-May-13,1430,Motorway,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,34,Car
 130226300,427750,436151,2,01-Jun-13,1415,B,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,20,Car
@@ -2185,7 +2185,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130482122,441292,447953,2,22-Nov-13,1535,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Serious,Male,55,Car
 130482122,441292,447953,2,22-Nov-13,1535,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Serious,Female,50,Car
 130482268,430684,434520,2,22-Nov-13,2215,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Female,65,Car
-130482268,430684,434520,2,22-Nov-13,2215,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Male,33,Minibus (8 – 16 passenger seats)
+130482268,430684,434520,2,22-Nov-13,2215,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Male,33,Minibus (8 Â– 16 passenger seats)
 130482609,427652,436671,1,23-Nov-13,1015,Unclassified,Dry,Daylight: street lights present,Fine without high winds,3,Pedestrian,Serious,Male,34,Car
 130482789,428977,433905,2,23-Nov-13,1025,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,32,Car
 130482789,428977,433905,2,23-Nov-13,1025,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,27,Car
@@ -2289,7 +2289,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130508459,427913,441534,2,10-Dec-13,1954,Unclassified,Dry,Darkness: no street lighting,Fine without high winds,1,Driver,Slight,Female,23,Car
 130508459,427913,441534,2,10-Dec-13,1954,Unclassified,Dry,Darkness: no street lighting,Fine without high winds,1,Driver,Slight,Female,42,Car
 130508944,430510,433452,1,11-Dec-13,1752,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,3,Pedestrian,Slight,Female,49,Goods vehicle 3.5 tonnes mgw and under
-130509298,433952,432959,2,11-Dec-13,905,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,1,Driver,Slight,Female,30,Car
+130509298,433952,432959,2,11-Dec-13,905,Unclassified,Wet / Damp,Daylight: street lights present,Fog or mist Â– if hazard,1,Driver,Slight,Female,30,Car
 130509374,429936,434301,3,12-Dec-13,710,A,Dry,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Male,48,Car
 130509787,429762,430595,1,07-Dec-13,1110,A,Dry,Daylight: street lights present,Fine without high winds,3,Pedestrian,Slight,Female,25,Car
 130509987,432375,434921,2,12-Dec-13,1335,B,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Serious,Male,53,Motorcycle over 500cc
@@ -2367,7 +2367,7 @@ Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Acciden
 130522982,431504,430600,2,20-Dec-13,1145,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,27,Car
 130523274,432120,427370,2,21-Dec-13,1730,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,1,Driver,Slight,Female,24,Car
 130523274,432120,427370,2,21-Dec-13,1730,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,2,Passenger,Slight,Female,24,Car
-130523427,427293,433602,2,21-Dec-13,1820,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining with high winds,1,Driver,Slight,Male,39,Minibus (8 – 16 passenger seats)
+130523427,427293,433602,2,21-Dec-13,1820,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining with high winds,1,Driver,Slight,Male,39,Minibus (8 Â– 16 passenger seats)
 130523976,434804,428893,2,22-Dec-13,1003,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Male,66,Car
 130523976,434804,428893,2,22-Dec-13,1003,Unclassified,Dry,Daylight: street lights present,Fine without high winds,1,Driver,Slight,Female,60,Car
 130524020,430354,433430,1,21-Dec-13,1630,Unclassified,Dry,Daylight: street lights present,Fine without high winds,3,Pedestrian,Slight,Male,32,Taxi/Private hire car
