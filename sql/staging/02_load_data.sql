@@ -1,0 +1,1 @@
+-- within this file will be data that will be used to load the intial Oracle DW --
