@@ -30,7 +30,7 @@ Weather Conditions,Weather Conditions Desc
 4,Fine with high winds
 5,Raining with high winds
 6,Snowing with high winds
-7,Fog or mist – if hazard
+7,Fog or mist â€“ if hazard
 8,Other
 9,Unknown
 ,
@@ -61,7 +61,7 @@ Type of Vehicle,Type of Vehicle Desc
 7,[Not used]
 8,Taxi/Private hire car
 9,Car
-10,Minibus (8 – 16 passenger seats)
+10,Minibus (8 â€“ 16 passenger seats)
 11,Bus or coach (17 or more passenger seats)
 12,[Not used]
 13,[Not used]
