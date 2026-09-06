@@ -152,6 +152,9 @@ MODIFY FULL_TIME VARCHAR2(8);
 UPDATE STAGING_LEEDS2016
 SET ACCIDENT_DATE = TO_DATE(ACCIDENT_DATE, 'DD/MM/RR');
 
+
+
+
 -- this code changes incidents joined table to make it uniform for the weather data to join --
 ALTER TABLE STAGING_INCIDENT_JOINED
 MODIFY FULL_TIME VARCHAR2(8);
